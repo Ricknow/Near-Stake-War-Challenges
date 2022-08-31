@@ -1,4 +1,7 @@
-﻿## 创建钱包并部署 NEAR CLI
+## 范围
+本文档适用于Ref Finance 参与本次Stake War的节点，包括： ref_demo.factory.shardnet.near, buildlinks.factory.shardnet.near 和 ref-stakewar.factory.shardnet.near。
+ 
+## 创建钱包并部署 NEAR CLI
 **创建钱包：**
 
 ![](https://github.com/Ricknow/Near-Stake-War-Challenges/blob/main/challenge5/imgs/p1.png)
@@ -116,4 +119,10 @@
 [http://34.102.40.151:3030/status](http://34.102.40.151:3030/status)
 
 ![](https://github.com/Ricknow/Near-Stake-War-Challenges/blob/main/challenge5/imgs/p9.png)
+
+## 节点架设成本
+
+GCP us-west2 虚拟机（4 core/32G ram/500G ssd）
+每月成本$395
+
 
