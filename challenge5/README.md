@@ -1,5 +1,11 @@
 ## 范围
-本文档适用于Ref Finance 参与本次Stake War的节点，包括： ref_demo.factory.shardnet.near, buildlinks.factory.shardnet.near 和 ref-stakewar.factory.shardnet.near。
+本文档适用于Ref Finance 参与本次Stake War的节点，包括： 
+
+|编号|节点名  |
+|---|---------------------------------|
+| 1 | ref_demo.factory.shardnet.near |
+| 2 | buildlinks.factory.shardnet.near |
+| 3 | ref-stakewar.factory.shardnet.near |
  
 ## 创建钱包并部署 NEAR CLI
 **创建钱包：**
